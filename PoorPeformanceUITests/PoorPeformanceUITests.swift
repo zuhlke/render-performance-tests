@@ -1,11 +1,3 @@
-//
-//  PoorPeformanceUITests.swift
-//  PoorPeformanceUITests
-//
-//  Created by Paul Cadman on 06/03/2018.
-//  Copyright © 2018 Paul Cadman. All rights reserved.
-//
-
 import XCTest
 
 class PoorPeformanceUITests: XCTestCase {
