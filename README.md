@@ -1,3 +1,3 @@
 # render-performance-tests
 
-A project to investigate UIView rendering in XCTest measure tests.
+A project to investigate testing rendering performance of UIViews
